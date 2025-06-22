@@ -1,0 +1,9 @@
+openai
+fitz
+PyMuPDF
+requests
+beautifulsoup4
+youtube-search-python
+streamlit
+selenium
+python-dotenv

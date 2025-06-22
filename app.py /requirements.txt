@@ -1,0 +1,9 @@
+requests
+openai
+python-dotenv
+beautifulsoup4
+
+PyMuPDF
+youtube-search-python
+streamlit
+selenium
